@@ -51,7 +51,7 @@ npm install --save express mongoose express body-parser morgan serve-favicon hoe
 5.
 6. Install App Routing
 ```ng generate module app-routing --flat --module=app```
-7. Update rxjs version to "^5.6.0-forward-compat.4" to ensure .map calls work appropriately.
+7. Update rxjs version to ```"^5.6.0-forward-compat.4"``` to ensure .map calls work appropriately.
 1.
 1.
 1.
